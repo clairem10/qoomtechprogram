@@ -1,14 +1,1 @@
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>pattern-dot</title>
-    <g id="pattern-dot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.2">
-        <circle id="Oval" fill="#FFFFFF" cx="0" cy="0" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="8" cy="0" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="16" cy="0" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="0" cy="8" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="8" cy="8" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="16" cy="8" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="0" cy="16" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="8" cy="16" r="1"></circle>
-        <circle id="Oval" fill="#FFFFFF" cx="16" cy="16" r="1"></circle>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><title>pattern-dot</title><g id="pattern-dot" fill="none" fill-opacity=".2" fill-rule="evenodd" stroke="none" stroke-width="1"><circle id="Oval" cx="0" cy="0" r="1" fill="#FFF"/><circle id="Oval" cx="8" cy="0" r="1" fill="#FFF"/><circle id="Oval" cx="16" cy="0" r="1" fill="#FFF"/><circle id="Oval" cx="0" cy="8" r="1" fill="#FFF"/><circle id="Oval" cx="8" cy="8" r="1" fill="#FFF"/><circle id="Oval" cx="16" cy="8" r="1" fill="#FFF"/><circle id="Oval" cx="0" cy="16" r="1" fill="#FFF"/><circle id="Oval" cx="8" cy="16" r="1" fill="#FFF"/><circle id="Oval" cx="16" cy="16" r="1" fill="#FFF"/></g></svg>
