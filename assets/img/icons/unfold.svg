@@ -1,9 +1,1 @@
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g>
-            <rect id="Rectangle" x="0" y="0" width="64" height="64"></rect>
-            <polygon id="Fill-1" fill="#000000" transform="translate(32.000000, 16.000000) scale(1, -1) translate(-32.000000, -16.000000) " points="48 24 32 8 16 24"></polygon>
-            <polygon id="Fill-1" fill="#000000" points="48 56 32 40 16 56"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1.1" viewBox="0 0 64 64"><g fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g><rect id="Rectangle" width="64" height="64" x="0" y="0"/><polygon id="Fill-1" fill="#000" points="48 24 32 8 16 24" transform="translate(32.000000, 16.000000) scale(1, -1) translate(-32.000000, -16.000000)"/><polygon id="Fill-1" fill="#000" points="48 56 32 40 16 56"/></g></g></svg>
